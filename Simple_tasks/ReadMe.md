@@ -9,7 +9,7 @@ In Verilog, the `always` block is used to specify the behaviour of a circuit in 
 
 ### block interface
 
-![intended Block](<a href="https://ibb.co/SP6jd8w"><img src="https://i.ibb.co/47FqYGR/1.png" alt="2" border="0"></a>)
+![](<a href="https://ibb.co/SP6jd8w"><img src="https://i.ibb.co/47FqYGR/1.png" alt="2" border="0"></a>)
 
 
 
