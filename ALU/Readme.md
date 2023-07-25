@@ -22,6 +22,7 @@ What I covered:
 2. Testbench that checks all conditions are satisfied and functions works as expected. (ALU_tb.v)
 3. Synthesis diagram using draw.io (as follows: 
 
-<a href="https://ibb.co/CvJwzrF"><img src="https://i.ibb.co/4MsF7Qx/ALU.png" alt="ALU" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
-<a href="https://ibb.co/0jSm9P1"><img src="https://i.ibb.co/JR4mpX8/Flags.png" alt="Flags" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+](https://github.com/MostafaElsharkawy92/Verilog_Projects/blob/8990dafca541dad8548b6de93417b832856a6ac9/ALU/Synthesis%20Diagrams/ALU.png)<a href="https://ibb.co/0jSm9P1"><img src="https://i.ibb.co/JR4mpX8/Flags.png" alt="Flags" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+
+[<a href="https://ibb.co/CvJwzrF"><img src="https://i.ibb.co/4MsF7Qx/ALU.png" alt="ALU" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
 
