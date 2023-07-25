@@ -16,9 +16,5 @@ Inputs: IN1, IN2, IN3, IN4, IN5, CLK (all inputs of 1-bit width)
 Outputs: OUT1, OUT2, OUT3 (output of 1-bit width)
 
 ### Circuit Implementation: -
-![](<a href="https://ibb.co/DfVwVdg"><img src="https://i.ibb.co/hF72701/2.png" alt="2" border="0"></a>)
-
-Requirements: -
-- To Design the above circuit using Verilog language.
-
+(<a href="https://ibb.co/DfVwVdg"><img src="https://i.ibb.co/hF72701/2.png" alt="2" border="0"></a>)
 
