@@ -13,7 +13,7 @@ Shift functions and Comparison functions.
 ● CMP_flag is activated "High" only when ALU performs one of the Comparison operations (Equal, Greater than, less than), otherwise "LOW"<br/>
 ● Shift_flag is activated "High" only when ALU performs one of the shifting operations (shift right, shift left), otherwise "LOW"<br/>
 ● clock frequency 100 KHz  
-/
+\
 <img width="355" alt="1" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/ec4084bb-d0ea-4e21-8fa7-b822f4fc1507">
 
 <img width="358" alt="2" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/fcc04041-c6eb-4f10-b69e-2bc3e68450ea">
