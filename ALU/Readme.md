@@ -13,16 +13,17 @@ Shift functions and Comparison functions.
 ● CMP_flag is activated "High" only when ALU performs one of the Comparison operations (Equal, Greater than, less than), otherwise "LOW"
 ● Shift_flag is activated "High" only when ALU performs one of the shifting operations (shift right, shift left),otherwise "LOW"
 ● clock frequency 100 KHz
-<a href="https://ibb.co/R3PNFvw"><img src="https://i.ibb.co/tqczGmr/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+<img width="355" alt="1" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/ec4084bb-d0ea-4e21-8fa7-b822f4fc1507">
 
-<a href="https://ibb.co/g4dbcn6"><img src="https://i.ibb.co/CP6pSrW/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+<img width="358" alt="2" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/fcc04041-c6eb-4f10-b69e-2bc3e68450ea">
 
 What I covered:
 1. Verilog code that satisfies the requirements. (ALU.v)
 2. Testbench that checks all conditions are satisfied and functions works as expected. (ALU_tb.v)
 3. Synthesis diagram using draw.io (as follows: 
 
-](https://github.com/MostafaElsharkawy92/Verilog_Projects/blob/8990dafca541dad8548b6de93417b832856a6ac9/ALU/Synthesis%20Diagrams/ALU.png)<a href="https://ibb.co/0jSm9P1"><img src="https://i.ibb.co/JR4mpX8/Flags.png" alt="Flags" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+<img width="590" alt="ALU" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/de4f12b4-861f-4bf0-a561-4e16b683470c">
 
-[<a href="https://ibb.co/CvJwzrF"><img src="https://i.ibb.co/4MsF7Qx/ALU.png" alt="ALU" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+<img width="319" alt="Flags" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/d53baa59-453f-40ad-aa68-e75710fccebc">
+
 
