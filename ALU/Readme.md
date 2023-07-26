@@ -1,7 +1,3 @@
-### Overview
-<img width="358" alt="2" src="https://github.com/MostafaElsharkawy92/Verilog_Projects/assets/57779031/fcc04041-c6eb-4f10-b69e-2bc3e68450ea">
-
-
 ### Introduction
 ALU is the fundamental building block of the processor, which is responsible for carrying out the arithmetic, logic functions,
 Shift functions and Comparison functions.
